@@ -15,4 +15,5 @@ scipy
 Flask
 Flask-Cors
 setuptools==68.2.2
+tensorboard
 -e .
